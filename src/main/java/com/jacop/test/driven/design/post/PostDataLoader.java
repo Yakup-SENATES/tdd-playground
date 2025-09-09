@@ -1,4 +1,4 @@
-package com.jacop.test.driven.design;
+package com.jacop.test.driven.design.post;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jacop.test.driven.design.post.data.Posts;
